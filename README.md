@@ -1,4 +1,4 @@
-# Dokerでvueプロジェクトを作成
+# Dockerでvueプロジェクトを作成
 
 ## はじめ方
 
@@ -24,7 +24,7 @@
 
 ## 以降の開発
 
-1. `docker-compose exec web /bin/ash`コンテナ内に入る
+1. `docker-compose exec app sh`コンテナ内に入る
 
 1. `npm run dev`で確認
 
