@@ -21,8 +21,9 @@
 ### vue
 1. `config/index.js`を下記のように書き換える<br>
     <img width="691" alt="スクリーンショット 2020-04-08 13 33 30" src="https://user-images.githubusercontent.com/47517002/78744854-967fb680-799d-11ea-917e-b61593ed94fe.png">
+ 
 
-1. コンテナに入り`npm run dev`を実行
+1. コンテナに入り`cd {プロジェクト名}`,`npm run dev`を実行
 
 1. http://localhost:9090 にようこそ的なページがでる
 
